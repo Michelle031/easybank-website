@@ -16,7 +16,6 @@ nav {
 body {
   overflow-x: hidden;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  width: 100vw;
 }
 .main {
   float: left;
@@ -264,6 +263,12 @@ footer ul li:hover{
     height: 40%;
     width: 100%;
     order: 2;
+  }
+  .img, .two {
+    width: 100%;
+  }
+  .img1, .img2 {
+    object-fit: contain;
   }
   .two img{
     left: 0px;
