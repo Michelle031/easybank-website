@@ -16,6 +16,7 @@ nav {
 body {
   overflow-x: hidden;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  width: 100vw;
 }
 .main {
   float: left;
